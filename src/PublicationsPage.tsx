@@ -76,7 +76,7 @@ export default function PublicationsPage() {
             />
           </div>
           <h1 className="text-2xl font-bold mt-4">Sameer Komoravolu</h1>
-          <p className="text-sm text-gray-400">Software Engineer • Researcher</p>
+          <p className="text-sm text-gray-400">ML Researcher • Software Engineer</p>
           <div className="w-full h-px bg-gray-700 my-6"></div>
           <p className="text-xs text-gray-500 text-center">
             skomo2@illinois.edu<br />
